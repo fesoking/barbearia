@@ -10,3 +10,7 @@ p{
         body{
             background: #CCCCCC;
             }
+
+em strong {
+    color:red;
+    }
